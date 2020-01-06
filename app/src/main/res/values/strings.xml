@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Convert2mp3 Linker 2</string>
+    <string name="alternative">Or enter the video link here:</string>
+    <string name="about">How to use: \n1. Open the Youtube App\n2. Open the video you want to download\n3. Press share to \"Convert2Mp3 Linker\"
+         and the app will link you to the download site.\nHave fun!</string>
+</resources>
